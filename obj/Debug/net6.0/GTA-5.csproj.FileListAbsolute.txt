@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Algoritm\GTA-5\bin\Debug\net6.0\GTA-5.exe
+C:\Users\user\Desktop\Algoritm\GTA-5\bin\Debug\net6.0\GTA-5.deps.json
+C:\Users\user\Desktop\Algoritm\GTA-5\bin\Debug\net6.0\GTA-5.runtimeconfig.json
+C:\Users\user\Desktop\Algoritm\GTA-5\bin\Debug\net6.0\GTA-5.dll
+C:\Users\user\Desktop\Algoritm\GTA-5\bin\Debug\net6.0\GTA-5.pdb
+C:\Users\user\Desktop\Algoritm\GTA-5\obj\Debug\net6.0\GTA-5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Algoritm\GTA-5\obj\Debug\net6.0\GTA-5.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Algoritm\GTA-5\obj\Debug\net6.0\GTA-5.AssemblyInfo.cs
+C:\Users\user\Desktop\Algoritm\GTA-5\obj\Debug\net6.0\GTA-5.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Algoritm\GTA-5\obj\Debug\net6.0\GTA-5.dll
+C:\Users\user\Desktop\Algoritm\GTA-5\obj\Debug\net6.0\refint\GTA-5.dll
+C:\Users\user\Desktop\Algoritm\GTA-5\obj\Debug\net6.0\GTA-5.pdb
+C:\Users\user\Desktop\Algoritm\GTA-5\obj\Debug\net6.0\GTA-5.genruntimeconfig.cache
+C:\Users\user\Desktop\Algoritm\GTA-5\obj\Debug\net6.0\ref\GTA-5.dll
